@@ -2,7 +2,7 @@
 
 A full-stack Job Portal that bridges the gap between **recruiters** and **freshers**. It allows recruiters to create jobs and job seekers to find and apply for them easily.
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Balraj1802-blue?logo=github)](https://github.com/vaibhavNITW/Job-Portal)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-vaibhavNITW-blue?logo=github)](https://github.com/vaibhavNITW/Job-Portal)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
